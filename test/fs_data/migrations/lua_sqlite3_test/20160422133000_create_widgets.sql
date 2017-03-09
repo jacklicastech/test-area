@@ -1,1 +1,0 @@
-create table widgets (name TEXT);

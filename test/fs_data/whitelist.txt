@@ -1,3 +1,0 @@
-localhost
-www.google.com
-aaaaaa.bbbbbbb.ccccccc.ddddddd.eeeeeee.fffffff.ggggggg.hhhhhhh.iiiiiii.jjjjjjj.kkkkkkk.lllllll.mmmmmmm.nnnnnnn.ooooooo.ppppppp.qqqqqqq.rrrrrrr.sssssss.ttttttt.uuuuuuu.vvvvvvv.wwwwwww.xxxxxxx.yyyyyyy.zzzzzzz.a-whitelist-entry-that-is-too-long-probably-malformed-because-the-maximum-length-of-a-fully-qualified-domain-length-is-only-255-characters.com
